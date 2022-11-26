@@ -1,6 +1,11 @@
-# library
 
-Welcome to my Library!
+
+![App Screenshot](https://github.com/manulthanura/library/blob/main/Src/Library-bro.png)
+
+
+# Welcome to my Library!
+
+## What are Libraries in Programming?
 
 Libraries in programming languages are collections of prewritten code that users can use to optimize tasks.
 
@@ -8,4 +13,20 @@ Programming libraries are valuable tools that can make a developer’s job more 
 
 Imagine you’re creating an application that allows people to purchase and participate in a course. You might turn to a free, open-source library to create user authentication for logging in. Or you could use a library to connect your app to a server. 
 
--- The rights of some content here belong to the original owners --
+
+## 🚀 About Me
+I'm Manul Thanura, Interested in Computer Engineering 👀
+ Currently learning as an undergraduate student @SLTC 🎓
+
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+## Support
+
+[![MIT License](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee)](https://www.buymeacoffee.com/manulthanura)
+
+
+
