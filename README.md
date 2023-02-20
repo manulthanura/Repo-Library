@@ -14,7 +14,7 @@ Imagine you’re creating an application that allows people to purchase and part
 
 ## 🚀 About Me
 I'm Manul Thanura, Interested in Computer Engineering 👀
- Currently learning as an undergraduate student @SLTC 🎓
+Currently learning as an undergraduate student @SLTC 🎓
  
 ## Connect with me  
 <div align="center">
