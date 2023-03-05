@@ -1,8 +1,6 @@
 
 <div align="center"><h1><b>Welcome to my Library!</b></h1></div>
 
-
-
 ![App Screenshot](./Src/Library-bro.png)
 
 ## What are Libraries in Programming?
