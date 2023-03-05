@@ -1,7 +1,7 @@
 
 # Welcome to my Library!
 
-![App Screenshot](https://github.com/manulthanura/library/blob/main/Src/Library-bro.png)
+![App Screenshot](./Src/Library-bro.png)
 
 ## What are Libraries in Programming?
 
