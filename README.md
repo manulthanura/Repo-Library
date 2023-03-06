@@ -11,6 +11,7 @@ Programming libraries are valuable tools that can make a developer’s job more 
 
 Imagine you’re creating an application that allows people to purchase and participate in a course. You might turn to a free, open-source library to create user authentication for logging in. Or you could use a library to connect your app to a server. 
 
+## Table of Contents
 
 ## 🚀 About Me
 I'm Manul Thanura, Interested in Computer Engineering 👀
