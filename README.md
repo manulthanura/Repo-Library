@@ -12,12 +12,79 @@ Libraries in programming languages are collections of prewritten code that users
 Programming libraries are valuable tools that can make a developer’s job more efficient. They provide pre-written, reusable chunks of code that developers can use to create applications quickly and easily. 
 
 Imagine you’re creating an application that allows people to purchase and participate in a course. You might turn to a free, open-source library to create user authentication for logging in. Or you could use a library to connect your app to a server. 
+
+This Repo creates to get what you need in the all-in-one place.
+
+**Love This? Give our repo a star :star: :arrow_up:** so that you can find it easily next time you need it.
+
+![Docker Image Version (latest semver)](https://img.shields.io/docker/v/manulthanura/Library?style=plastic)
     </td>
  </tr>
 </table>
 
-
+----------
 ## Table of Contents
+
+- Open Source Projects
+    1. PHPMailer
+    2. HashLips Art Engine
+    3. HackerRank Submission Downloader
+ 
+- Documentation
+    1. GitHub Profile Achievements
+    2. Linkedin Skill assessments - Answers
+    3. third
+
+- third
+----------
+
+# 📚 Open Source projects
+
+## 1. PHPMailer – A full-featured email creation and transfer class for PHP
+
+### Why you might need it
+Many PHP developers need to send email from their code. The only PHP function that supports this directly is [`mail()`](https://www.php.net/manual/en/function.mail.php). However, it does not provide any assistance for making use of popular features such as encryption, authentication, HTML messages, and attachments.
+
+### Features
+- Probably the world's most popular code for sending email from PHP!
+- Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more
+- Integrated SMTP support – send without a local mail server
+- Send emails with multiple To, CC, BCC, and Reply-to addresses
+- Multipart/alternative emails for mail clients that do not read HTML email
+- Add attachments, including inline
+- Support for UTF-8 content and 8bit, base64, binary, and quoted-printable encodings
+- SMTP authentication with LOGIN, PLAIN, CRAM-MD5, and XOAUTH2 mechanisms over SMTPS and SMTP+STARTTLS transports
+- Validates email addresses automatically
+- Protects against header injection attacks
+- Error messages in over 50 languages!
+- DKIM and S/MIME signing support
+- Compatible with PHP 5.5 and later, including PHP 8.2
+- Namespaced to prevent name clashes
+- Much more!
+
+### Link
+[PHPMailer](https://github.com/PHPMailer/PHPMailer.git)
+
+## 2. HashLips Art Engine
+
+### Why you might need it
+HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers
+
+### Features
+
+- Create multiple different instances of artworks based on provided layers
+- Create artworks with different traits, rarity, number of layers and number of traits
+
+### Link
+[HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine.git)
+
+## 3. third
+
+### Why you might need it
+
+### Features
+
+### Link
 
 ## 🚀 About Me
 I'm Manul Thanura, Interested in Computer Engineering 👀
