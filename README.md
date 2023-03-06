@@ -33,11 +33,8 @@ This Repo creates to get what you need in the all-in-one place.
 - Documentation
     1. GitHub Profile Achievements
     2. Linkedin Skill assessments - Answers
-    3. third
 
-- third
-----------
-
+<br><br>
 # 📚 Open Source projects
 
 ## 1. PHPMailer – A full-featured email creation and transfer class for PHP
@@ -62,8 +59,7 @@ Many PHP developers need to send email from their code. The only PHP function th
 - Namespaced to prevent name clashes
 - Much more!
 
-### Link
-[PHPMailer](https://github.com/PHPMailer/PHPMailer.git)
+### Link [PHPMailer](https://github.com/PHPMailer/PHPMailer.git) <br><br>
 
 ## 2. HashLips Art Engine
 
@@ -75,17 +71,36 @@ HashLips Art Engine is a tool used to create multiple different instances of art
 - Create multiple different instances of artworks based on provided layers
 - Create artworks with different traits, rarity, number of layers and number of traits
 
-### Link
-[HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine.git)
+### Link [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine.git) <br><br>
 
-## 3. third
+## 3. HackerRank Submission Downloader
 
 ### Why you might need it
+HackerRank Submission Downloader is a tool used to download all your submissions from HackerRank. It helps you specifically in the case where you have lost your submissions due to a system failure or a bug in the system or in HackerRank hackthon.
 
 ### Features
 
-### Link
+- Download all your submissions from HackerRank
+- Download all your submissions from a specific contest
 
+### Link [HackerRank Submission Downloader](https://github.com/kasvith/hackerrank-dl.git) <br><br>
+
+<br><br>
+# 📚 Documentation
+
+## 1. GitHub Profile Achievements
+
+A collection listing all Achievements available on the GitHub profile. It helps you to show your GitHub profile achievements in your GitHub profile.
+
+### Link [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements.git) <br><br>
+
+## 2. Linkedin Skill assessments - Answers
+
+This repository is for those looking for answers to the LinkedIn assessment quiz questions or willing to help others by contributing to the tests. Or possibly you would like to create your first pull request and be added as a contributor. Whatever is your goal - you are always welcome here! Feel free to use online grammar checker when you contribute!
+
+### Link [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) <br><br>
+
+----------
 ## 🚀 About Me
 I'm Manul Thanura, Interested in Computer Engineering 👀
 Currently learning as an undergraduate student @SLTC 🎓
