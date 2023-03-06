@@ -1,8 +1,0 @@
-.idea
-.vscode
-hackerrank-dl*
-*.exe
-vendor
-out
-config.yaml
-.DS_Store
