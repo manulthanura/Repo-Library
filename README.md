@@ -13,7 +13,7 @@ Programming libraries are valuable tools that can make a developer’s job more 
 
 This Repo creates to get what you need in the all-in-one place.
 
-**Love This? Give our repo a star :star: :arrow_up:** so that you can find it easily next time you need it.
+**Love This? Give my repo a star :star: :arrow_up:** so that you can find it easily next time you need it.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library)
     </td>
