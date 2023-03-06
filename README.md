@@ -17,7 +17,7 @@ This Repo creates to get what you need in the all-in-one place.
 
 **Love This? Give our repo a star :star: :arrow_up:** so that you can find it easily next time you need it.
 
-![Docker Image Version (latest semver)](https://img.shields.io/docker/v/manulthanura/Library?style=plastic)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library)
     </td>
  </tr>
 </table>
