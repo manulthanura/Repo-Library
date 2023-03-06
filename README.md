@@ -11,8 +11,6 @@ Libraries in programming languages are collections of prewritten code that users
 
 Programming libraries are valuable tools that can make a developer’s job more efficient. They provide pre-written, reusable chunks of code that developers can use to create applications quickly and easily. 
 
-Imagine you’re creating an application that allows people to purchase and participate in a course. You might turn to a free, open-source library to create user authentication for logging in. Or you could use a library to connect your app to a server. 
-
 This Repo creates to get what you need in the all-in-one place.
 
 **Love This? Give our repo a star :star: :arrow_up:** so that you can find it easily next time you need it.
