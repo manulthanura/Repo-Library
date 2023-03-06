@@ -1,15 +1,21 @@
 
 <div align="center"><h1><b>Welcome to my Library!</b></h1></div>
 
-![App Screenshot](./Src/Library-bro.png)
-
-## What are Libraries in Programming?
+<table border="0">
+ <tr>
+    <td><img src="./Src/Library-bro.png"></td>
+    <td>
+    <h2>What are Libraries in Programming?</h2>
 
 Libraries in programming languages are collections of prewritten code that users can use to optimize tasks.
 
 Programming libraries are valuable tools that can make a developer’s job more efficient. They provide pre-written, reusable chunks of code that developers can use to create applications quickly and easily. 
 
 Imagine you’re creating an application that allows people to purchase and participate in a course. You might turn to a free, open-source library to create user authentication for logging in. Or you could use a library to connect your app to a server. 
+    </td>
+ </tr>
+</table>
+
 
 ## Table of Contents
 
