@@ -102,8 +102,8 @@ This repository is for those looking for answers to the LinkedIn assessment quiz
 
 ----------
 ## 🚀 About Me
-I'm Manul Thanura, Interested in Computer Engineering 👀
-Currently learning as an undergraduate student @SLTC 🎓
+
+I am Manul Thanura, an energetic, self-motivated, creative, adaptable, and ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. I am currently studying BSc (Hons) in Engineering in Information and Communication Engineering 🎓 at [SLTC Research University](https://sltc.ac.lk/). Full Stack Development and Python-based Artificial Intelligence fields are my main interests.👀 <br><br>
  
 ## Connect with me  
 <div align="center">
@@ -125,19 +125,19 @@ Currently learning as an undergraduate student @SLTC 🎓
 <a href="https://instagram.com/manulthanura" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
+
+----------
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
+----------
+
 ## License
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 
 ## Support
 
