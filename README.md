@@ -15,7 +15,7 @@ This Repo creates to get what you need in the all-in-one place.
 
 **Love This? Give my repo a star :star: :arrow_up:** so that you can find it easily next time you need it.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Library?style=social)
     </td>
  </tr>
 </table>
