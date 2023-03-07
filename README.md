@@ -85,6 +85,19 @@ HackerRank Submission Downloader is a tool used to download all your submissions
 
 ### Link [HackerRank Submission Downloader](https://github.com/kasvith/hackerrank-dl.git) <br><br>
 
+## 4. Panolens.js
+
+### Why you might need it
+Panolens.js is a JavaScript library for creating VR panorama viewer on the web. It is built on top of Three.js and WebGL. It is designed to be lightweight and easy to use. 
+
+### Features
+
+- Lightweight
+- Easy to use
+- Support for both equirectangular and cubemap panorama
+
+### Link [Panolens.js](https://github.com/pchen66/panolens.js.git)
+
 <br><br>
 # 📚 Documentation
 
