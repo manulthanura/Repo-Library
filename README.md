@@ -33,6 +33,8 @@ This Repo creates to get what you need in the all-in-one place.
 - Documentation
     1. GitHub Profile Achievements
     2. Linkedin Skill assessments - Answers
+    3. Public APIs
+    4. Coding Interview University
 
 <br><br>
 # 📚 Open Source projects
@@ -112,6 +114,18 @@ A collection listing all Achievements available on the GitHub profile. It helps 
 This repository is for those looking for answers to the LinkedIn assessment quiz questions or willing to help others by contributing to the tests. Or possibly you would like to create your first pull request and be added as a contributor. Whatever is your goal - you are always welcome here! Feel free to use online grammar checker when you contribute!
 
 ### Link [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) <br><br>
+
+## 3. Public APIs
+
+A collective list of free APIs for use in software and web development.
+
+### Link [Public APIs](https://github.com/public-apis/public-apis.git) <br><br>
+
+## 4. Coding Interview University
+
+A complete computer science study plan to become a software engineer.
+
+### Link [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) <br><br>
 
 ----------
 ## 🚀 About Me
