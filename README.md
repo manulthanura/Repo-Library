@@ -25,10 +25,10 @@ This Repo creates to get what you need in the all-in-one place.
 ## Table of Contents
 
 - Open Source Projects
-    1. PHPMailer
-    2. HashLips Art Engine
-    3. HackerRank Submission Downloader
-    4. Panolens.js
+    1. [PHPMailer](#1-phpmailer-–-a-full-featured-email-creation-and-transfer-class-for-php)
+    2. [HashLips Art Engine](#2-hashlips-art-engine)
+    3. [HackerRank Submission Downloader](#3-hackerrank-submission-downloader)
+    4. [Panolens.js](#4-panolensjs)
  
 - Documentation
     1. GitHub Profile Achievements
