@@ -31,10 +31,10 @@ This Repo creates to get what you need in the all-in-one place.
     4. [Panolens.js](#4-panolensjs)
  
 - Documentation
-    1. GitHub Profile Achievements
-    2. Linkedin Skill assessments - Answers
-    3. Public APIs
-    4. Coding Interview University
+    1. [GitHub Profile Achievements](#1-github-profile-achievements)
+    2. [Linkedin Skill assessments - Answers](#2-linkedin-skill-assessments---answers)
+    3. [Public APIs](#3-public-apis)
+    4. [Coding Interview University](#4-coding-interview-university)
 
 <br><br>
 # 📚 Open Source projects
