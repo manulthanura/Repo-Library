@@ -35,6 +35,7 @@ This Repo creates to get what you need in the all-in-one place.
     2. [Linkedin Skill assessments - Answers](#2-linkedin-skill-assessments---answers)
     3. [Public APIs](#3-public-apis)
     4. [Coding Interview University](#4-coding-interview-university)
+    5. [Developer Roadmap](#5-developer-roadmap)
 
 <br><br>
 # 📚 Open Source projects
@@ -126,6 +127,12 @@ A collective list of free APIs for use in software and web development.
 A complete computer science study plan to become a software engineer.
 
 ### Link [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) <br><br>
+
+## 5. Developer Roadmap
+
+Community driven roadmaps, articles and resources for developers to learn about different technologies and improve their skills.
+
+### Link [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap.git) <br><br>
 
 ----------
 ## 🚀 About Me
