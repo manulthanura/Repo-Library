@@ -21,6 +21,23 @@ This Repo creates to get what you need in the all-in-one place.
  </tr>
 </table>
 
+<!-- Programming languages: This category can include repos for different programming languages, such as Python, Java, JavaScript, C++, and C.
+Software development: This category can include repos for software development tools and libraries, such as Git, GitHub, Docker, and Kubernetes.
+Web development: This category can include repos for web development frameworks and libraries, such as React, Angular, and Vue.js.
+Data science: This category can include repos for data science tools and libraries, such as NumPy, Pandas, and Scikit-learn.
+Machine learning: This category can include repos for machine learning tools and libraries, such as TensorFlow, PyTorch, and Keras.
+Artificial intelligence: This category can include repos for artificial intelligence tools and libraries, such as OpenAI, DeepMind, and Google Brain.
+Cloud computing: This category can include repos for cloud computing platforms and services, such as AWS, Azure, and GCP.
+Security: This category can include repos for security tools and libraries, such as OWASP, SANS, and MITRE.
+DevOps: This category can include repos for DevOps tools and libraries, such as Ansible, Puppet, and Chef.
+Testing: This category can include repos for testing tools and libraries, such as Selenium, JUnit, and TestNG.
+Quality assurance: This category can include repos for quality assurance tools and libraries, such as SonarQube, Clang, and GCC.
+Containers: This category can include repos for containerization tools and libraries, such as Docker, Kubernetes, and LXC.
+Networking: This category can include repos for networking tools and libraries, such as Wireshark, nmap, and tcpdump.
+Operating systems: This category can include repos for operating systems, such as Linux, macOS, and Windows.
+Hardware: This category can include repos for hardware projects, such as Arduino, Raspberry Pi, and ESP32.
+Other: This category can include repos for anything that doesn't fit into the other categories. -->
+
 ----------
 ## Table of Contents
 
