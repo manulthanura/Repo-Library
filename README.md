@@ -206,7 +206,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme) - Event-driven worker for the web.
-- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
+- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme) - Making web apps work offline.
 - [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
@@ -215,7 +215,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
 - [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
 - [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
-- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
+- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme) - Design and development strategy.
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
