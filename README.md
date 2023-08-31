@@ -156,14 +156,14 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 
 ## 03. Front-End Development
-- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
-- [Web Tools](https://github.com/lvwzhen/tools#readme)
+- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme) - A delightful list of ESLint plugins, configs, etc.
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) - For making web apps load faster.
+- [Web Tools](https://github.com/lvwzhen/tools#readme) - A collection of useful single-purpose online tools for web development.
 - [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
-	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
-	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
-	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
+	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme) - Tools to prioritize above-the-fold content in CSS.
+	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme) - Guides for writing scalable CSS.
+	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme) - Must-watch talks about CSS.
+	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme) - Simple but useful tips to improve CSS.
 	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
 - [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
