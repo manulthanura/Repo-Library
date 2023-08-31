@@ -166,6 +166,13 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#02-programming-languages)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
+
 ## 03. Front-End Development
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme) - A delightful list of ESLint plugins, configs, etc.
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) - For making web apps load faster.
