@@ -10,6 +10,33 @@ Here is a list of the best GitHub repositories that are useful for your dev jour
 ----------
 ## Table of Contents
 
+01. Back-End Development
+02. Big Data
+Books
+Business
+Computer Science
+Content Management Systems
+Databases
+Decentralized Systems
+Development Environment
+Editors
+Entertainment
+Events
+Front-End Development
+Gaming
+Hardware
+Health and Social Science
+Learn
+Media
+Miscellaneous
+Networking
+Platforms
+Programming Languages
+Related
+Security
+Testing
+Theory
+Work
 
 <!-- old -->
 - Open Source Projects
