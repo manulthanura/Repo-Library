@@ -188,7 +188,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme) - Designing/developing accessible web sites.
 - [Material Design](https://github.com/sachin1092/awesome-material#readme) - Visual language and design system.
 - [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
-- [Emails](https://github.com/jonathandion/awesome-emails#readme)
+- [Emails](https://github.com/jonathandion/awesome-emails#readme) - Creating and sending emails.
 - [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
