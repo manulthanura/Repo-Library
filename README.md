@@ -10,7 +10,7 @@ Here is a list of the best GitHub repositories that are useful for your dev jour
 ----------
 ## Table of Contents
 
-01. [Learning Resources](#1-learning-resources)
+01. [Learning Resources](#01-learning-resources)
 02. Programming Languages
 03. Front-End Development
 04. Back-End Development
