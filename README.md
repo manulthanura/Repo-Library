@@ -1,7 +1,7 @@
 
 <div align="center"><h1><b>Welcome to Repo Library!</b></h1></div>
 
-Here is a list of the best GitHub repositories that are useful for your dev journey. Feel free to add your favorite resources as well and help others in their journey of learning.
+Here is a list of the best GitHub repositories that are useful for your dev journey. Feel free to add your favorite resources as well and help others in their journey of learning. To find the best resources, Click 'Ctrl + F' and type the keyword you are looking for.
 
 This Repo creates to get what you need in the all-in-one place.
 
