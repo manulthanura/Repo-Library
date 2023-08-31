@@ -85,6 +85,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 
 [![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#01-learning-resources)
 [![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
 </div>
 
 ## 02. Programming Languages
