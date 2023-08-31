@@ -78,6 +78,82 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
 ## 02. Programming Languages
+- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) - Language used to make web pages interactive.
+	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme) - Async alternative to callbacks.
+	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme) - Must-watch videos about JavaScript.
+	- [Tips](https://github.com/loverajoel/jstips#readme) - Tips to avoid common mistakes.
+	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme) - For HTTP, WebSocket, WebRTC, and TCP.
+	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme) - Small modules.
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
+	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
+	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
+	- [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
+	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme) - Functional programming style libraries, techniques, and utilities.
+	- [Observables](https://github.com/sindresorhus/awesome-observables#readme) - Reactive programming with observables.
+	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+- [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
+	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme) - Educational materials.
+	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme) - Interactive Swift playgrounds.
+- [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
+	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
+	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
+	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
+	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+- [Rust](https://github.com/rust-unofficial/awesome-rust#readme) - Low-level language with a focus on performance and safety.
+- [Haskell](https://github.com/krispo/awesome-haskell#readme) - General-purpose language with lazy evaluation and strong static typing.
+- [PureScript](https://github.com/passy/awesome-purescript#readme) - Small strongly, statically typed language with expressive types, written in and inspired by Haskell, and compiling to Javascript.
+- [Go](https://github.com/avelino/awesome-go#readme) - Open source programming language to build simple/reliable/efficient software.
+- [Scala](https://github.com/lauris/awesome-scala#readme) - General-purpose programming language with strong static type system.
+	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+- [Ruby](https://github.com/markets/awesome-ruby#readme) - A dynamic, interpreted, open source programming language with a focus on simplicity and productivity.
+- [Clojure](https://github.com/razum2um/awesome-clojure#readme) - Dynamic, general-purpose programming language, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.
+- [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme) - A compiler for Clojure that targets JavaScript.
+- [Elixir](https://github.com/h4cc/awesome-elixir#readme) - Dynamic, functional language designed for building scalable and maintainable applications.
+- [Elm](https://github.com/sporto/awesome-elm#readme) - Functional language that compiles to JavaScript.
+- [Erlang](https://github.com/drobakowski/awesome-erlang#readme) - General-purpose, concurrent, declarative, functional language.
+- [Julia](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
+- [Lua](https://github.com/LewisJEllis/awesome-lua#readme) - Lightweight multi-paradigm programming language designed as a scripting language with extensible semantics as a primary goal.
+- [C](https://github.com/inputsh/awesome-c#readme) - One of the oldest programming languages still in common use, C provides low-level access to system memory and functionality.
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+- [R](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
+	- [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+- [D](https://github.com/dlang-community/awesome-d#readme) - General-purpose systems programming language with a C-like syntax that compiles to native code.
+- [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
+- [Perl](https://github.com/hachiojipm/awesome-perl#readme) - Highly capable, feature-rich programming language with over 30 years of development.
+- [Groovy](https://github.com/kdabir/awesome-groovy#readme) - Powerful multi-paradigm programming language for the JVM.
+- [Dart](https://github.com/yissachar/awesome-dart#readme) - Client-optimized language for fast apps on any platform.
+- [Java](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
+	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme) - Reactive Extensions for the JVM.
+- [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme) - Statically typed programming language for the JVM, Android and the browser.
+- [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme) - General-purpose language with an emphasis on expressiveness and safety.
+- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme) - Commercial rapid web application development platform.
+- [Fortran](https://github.com/rabbiabram/awesome-fortran#readme) - General-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing.
+- [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
+	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
+- [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme) - Imperative and procedural programming language, designed as a small and efficient language intended to encourage good programming practices using structured programming and data structuring.
+- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme) - Scripting language for desktop automation.
+- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme) - Scripting language for automating the Windows GUI and general scripting.
+- [Crystal](https://github.com/veelenga/awesome-crystal#readme)
+- [Frege](https://github.com/sfischer13/awesome-frege#readme) - Haskell for the JVM.
+- [CMake](https://github.com/onqtam/awesome-cmake#readme) - Build, test, and package software.
+- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
+- [Eta](https://github.com/sfischer13/awesome-eta#readme) - Functional programming language for the JVM.
+- [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+- [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+- [Imba](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
+- [Vala](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+- [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+- [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
+- [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 ## 03. Front-End Development
 ## 04. Back-End Development
 ## 05. Libraries
