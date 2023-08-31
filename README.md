@@ -1,12 +1,6 @@
 
 <div align="center"><h1><b>Welcome to my Library!</b></h1></div>
 
-<table border="0">
- <tr>
-    <td><img src="./Src/Library-bro.png"></td>
-    <td>
-    <h2>What are Libraries in Programming?</h2>
-
 Libraries in programming languages are collections of prewritten code that users can use to optimize tasks.
 
 Programming libraries are valuable tools that can make a developer’s job more efficient. They provide pre-written, reusable chunks of code that developers can use to create applications quickly and easily. 
@@ -17,9 +11,6 @@ This Repo creates to get what you need in the all-in-one place.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Library?style=socialhttps://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=yellow) ![GitHub contributors](https://img.shields.io/github/contributors/manulthanura/Library) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Library)
 
- </td>
- </tr>
-</table>
 
 <!-- Programming languages: This category can include repos for different programming languages, such as Python, Java, JavaScript, C++, and C.
 Software development: This category can include repos for software development tools and libraries, such as Git, GitHub, Docker, and Kubernetes.
