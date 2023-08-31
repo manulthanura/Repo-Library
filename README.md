@@ -81,8 +81,11 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
+<div align="right">
+
 [![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#01-learning-resources)
 [![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+</div>
 
 ## 02. Programming Languages
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) - Language used to make web pages interactive.
