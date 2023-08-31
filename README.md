@@ -190,7 +190,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails#readme) - Creating and sending emails.
 - [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
-	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
+	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme) - Advice for using jQuery.
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
 - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
