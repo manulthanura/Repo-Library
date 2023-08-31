@@ -200,9 +200,9 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
 - [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
-- [Charting](https://github.com/zingchart/awesome-charting#readme)
-- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
-- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
+- [Charting](https://github.com/zingchart/awesome-charting#readme) - Charting libraries.
+- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme) - App framework.
+- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme) - Tools for debugging, testing, and building web apps.
 - [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
