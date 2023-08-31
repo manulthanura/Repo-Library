@@ -193,9 +193,9 @@ Other: This category can include repos for anything that doesn't fit into the ot
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme) - Advice for using jQuery. 
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme) - Web Audio API.
 - [Offline-First](https://github.com/pazguille/offline-first#readme) - Design an app that works without internet connection.
-- [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
+- [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme) - Services for hosting websites using only static files.
 - [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
-- [Text Editing](https://github.com/dok/awesome-text-editing#readme)
+- [Text Editing](https://github.com/dok/awesome-text-editing#readme) - Resources for creating text/spreadsheets/presentations.
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
 - [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
