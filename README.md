@@ -168,23 +168,23 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
-- [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
+- [Web Components](https://github.com/web-padawan/awesome-web-components#readme) - Frameworks and libraries for reusable web components.
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
-- [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
+- [Canvas](https://github.com/raphamorim/awesome-canvas#readme) - JavaScript library for drawing graphics.
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
-- [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
+- [Inspiration](https://github.com/NoahBuscher/Inspire#readme) - Practical examples of website and app design.
 - [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
-- [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
-- [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
-- [Meteor](https://github.com/Urigo/awesome-meteor#readme)
-- [BEM](https://github.com/sturobson/BEM-resources#readme)
-- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
-- [Web Typography](https://github.com/deanhume/typography#readme)
+- [Android UI](https://github.com/wasabeef/awesome-android-ui#readme) - UI libraries for Android.
+- [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme) - UI libraries for iOS.
+- [Meteor](https://github.com/Urigo/awesome-meteor#readme) - App framework.
+- [BEM](https://github.com/sturobson/BEM-resources#readme) - CSS methodology.
+- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme) - CSS layout mechanism.
+- [Web Typography](https://github.com/deanhume/typography#readme) - Info about using beautiful typography on the web.
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
 - [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
