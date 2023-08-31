@@ -242,10 +242,15 @@ Other: This category can include repos for anything that doesn't fit into the ot
 ## 04. Back-End Development
 comming soon
 ## 05. Libraries
+comming soon
 ## 06. Frameworks
+comming soon
 ## 07. Development Environment
+comming soon
 ## 08. Developer Platforms
+comming soon
 ## 09. Computer Science
+comming soon
 ## 10. Gaming 
 ## 11. Machine Learning
 ## 12. Big Data
