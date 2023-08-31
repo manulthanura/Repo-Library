@@ -1,9 +1,7 @@
 
 <div align="center"><h1><b>Welcome to my Library!</b></h1></div>
 
-Libraries in programming languages are collections of prewritten code that users can use to optimize tasks.
-
-Programming libraries are valuable tools that can make a developer’s job more efficient. They provide pre-written, reusable chunks of code that developers can use to create applications quickly and easily. 
+Here is a list of the best GitHub repositories that are useful for your dev journey. Feel free to add your favorite resources as well and help others in their journey of learning. 
 
 This Repo creates to get what you need in the all-in-one place.
 
