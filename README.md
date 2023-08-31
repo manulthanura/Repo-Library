@@ -205,7 +205,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme) - Tools for debugging, testing, and building web apps.
 - [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
-- [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
+- [Service Workers](https://github.com/TalAter/awesome-service-workers#readme) - Event-driven worker for the web.
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 - [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
