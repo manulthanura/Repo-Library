@@ -185,8 +185,8 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [BEM](https://github.com/sturobson/BEM-resources#readme) - CSS methodology.
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme) - CSS layout mechanism.
 - [Web Typography](https://github.com/deanhume/typography#readme) - Info about using beautiful typography on the web.
-- [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
-- [Material Design](https://github.com/sachin1092/awesome-material#readme)
+- [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme) - Designing/developing accessible web sites.
+- [Material Design](https://github.com/sachin1092/awesome-material#readme) - Visual language and design system.
 - [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails#readme)
 - [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
