@@ -6,8 +6,6 @@ Here is a list of the best GitHub repositories that are useful for your dev jour
 For ease of use, Click on the `back to top` button to go back to the top of the page or `Back to section` button to go back to the section you were in. 
 ![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2) ![Static Badge](https://img.shields.io/badge/Back_To-Section-8BBAA0)
 
-
-
 **Love This? Give this repo a star :star:** so that you can find it easily next time you need it.
 
 ![Static Badge](https://img.shields.io/badge/GitHub-Repo_Library-dark%20green) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Library?style=socialhttps://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=yellow) ![GitHub contributors](https://img.shields.io/github/contributors/manulthanura/Library) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Library) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
