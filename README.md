@@ -254,10 +254,15 @@ comming soon
 ## 10. Gaming 
 comming soon
 ## 11. Machine Learning
+comming soon
 ## 12. Big Data
+comming soon
 ## 13. Business Tools
+comming soon
 ## 14. Testing
+comming soon
 ## 15. Security
+comming soon
 
 <br><br>
 # 📚 Open Source projects
