@@ -1,5 +1,5 @@
 
-<div align="center"><h1><b>Welcome to my Library!</b></h1></div>
+<div align="center"><h1><b>Welcome to Repo Library!</b></h1></div>
 
 Here is a list of the best GitHub repositories that are useful for your dev journey. Feel free to add your favorite resources as well and help others in their journey of learning. 
 
