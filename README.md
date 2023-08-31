@@ -10,7 +10,7 @@ Here is a list of the best GitHub repositories that are useful for your dev jour
 ----------
 ## Table of Contents
 
-01. Learning Resources
+01. [Learning Resources](#1-learning-resources)
 02. Programming Languages
 03. Front-End Development
 04. Back-End Development
@@ -59,7 +59,21 @@ Operating systems: This category can include repos for operating systems, such a
 Hardware: This category can include repos for hardware projects, such as Arduino, Raspberry Pi, and ESP32.
 Other: This category can include repos for anything that doesn't fit into the other categories. -->
 
-
+## 01. Learning Resources
+## 02. Programming Languages
+## 03. Front-End Development
+## 04. Back-End Development
+## 05. Libraries
+## 06. Frameworks
+## 07. Development Environment
+## 08. Developer Platforms
+## 09. Computer Science
+## 10. Gaming 
+## 11. Machine Learning
+## 12. Big Data
+## 13. Business Tools
+## 14. Testing
+## 15. Security
 
 <br><br>
 # 📚 Open Source projects
