@@ -368,7 +368,6 @@ Community driven roadmaps, articles and resources for developers to learn about 
 
 I am Manul Thanura, an energetic, self-motivated, creative, adaptable, and ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. I am currently studying BSc (Hons) in Engineering in Information and Communication Engineering 🎓 at [SLTC Research University](https://sltc.ac.lk/). Full Stack Development and Python-based Artificial Intelligence fields are my main interests.👀 <br><br>
  
-## Connect with me  
 <div align="center">
 <a href="https://github.com/manulthanura" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
