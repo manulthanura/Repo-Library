@@ -11,20 +11,20 @@ Here is a list of the best GitHub repositories that are useful for your dev jour
 ## Table of Contents
 
 01. [Learning Resources](#01-learning-resources)
-02. Programming Languages
-03. Front-End Development
-04. Back-End Development
-05. Libraries
-06. Frameworks
-07. Development Environment
-08. Developer Platforms
-09. Computer Science
-10. Gaming 
-11. Machine Learning
-12. Big Data
-13. Business Tools
-14. Testing
-15. Security
+02. [Programming Languages](#02-programming-languages)
+03. [Front-End Development](#03-front-end-development)
+04. [Back-End Development](#04-back-end-development)
+05. [Libraries](#05-libraries)
+06. [Frameworks](#06-frameworks)
+07. [Development Environment](#07-development-environment)
+08. [Developer Platforms](#08-developer-platforms)
+09. [Computer Science](#09-computer-science)
+10. [Gaming](#10-gaming)
+11. [Machine Learning](#11-machine-learning)
+12. [Big Data](#12-big-data)
+13. [Business Tools](#13-business-tools)
+14. [Testing](#14-testing)
+15. [Security](#15-security)
 
 
 <!-- old -->
