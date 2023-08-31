@@ -4,7 +4,8 @@
 Here is a list of the best GitHub repositories that are useful for your dev journey. Feel free to add your favorite resources as well and help others in their journey of learning. To find, Click `Ctrl + F` and type the keyword you are looking for. If you not sure what do you need, you can find it in the [Table of Contents](#table-of-contents).
 
 For ease of use, Click on the `back to top` button to go back to the top of the page or `Back to section` button to go back to the section you were in. <br/>
-![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2) ![Static Badge](https://img.shields.io/badge/Back_To-Section-8BBAA0)
+![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2) ![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)
+
 
 **Love This? Give this repo a star :star:** so that you can find it easily next time you need it.
 
