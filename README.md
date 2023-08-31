@@ -1,13 +1,27 @@
 
 <div align="center"><h1><b>Welcome to Repo Library!</b></h1></div>
 
-Here is a list of the best GitHub repositories that are useful for your dev journey. Feel free to add your favorite resources as well and help others in their journey of learning. To find, Click 'Ctrl + F' and type the keyword you are looking for.
-
-This Repo creates to get what you need in the all-in-one place.
+Here is a list of the best GitHub repositories that are useful for your dev journey. Feel free to add your favorite resources as well and help others in their journey of learning. To find, Click 'Ctrl + F' and type the keyword you are looking for. If you not sure what do you need, you can find it in the Table of Contents.
 
 **Love This? Give this repo a star :star:** so that you can find it easily next time you need it.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Library?style=socialhttps://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=yellow) ![GitHub contributors](https://img.shields.io/github/contributors/manulthanura/Library) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Library)
+
+----------
+## Table of Contents
+
+- Open Source Projects
+    1. [PHPMailer](#1-phpmailer-–-a-full-featured-email-creation-and-transfer-class-for-php)
+    2. [HashLips Art Engine](#2-hashlips-art-engine)
+    3. [HackerRank Submission Downloader](#3-hackerrank-submission-downloader)
+    4. [Panolens.js](#4-panolensjs)
+ 
+- Documentation
+    1. [GitHub Profile Achievements](#1-github-profile-achievements)
+    2. [Linkedin Skill assessments - Answers](#2-linkedin-skill-assessments---answers)
+    3. [Public APIs](#3-public-apis)
+    4. [Coding Interview University](#4-coding-interview-university)
+    5. [Developer Roadmap](#5-developer-roadmap)
 
 
 <!-- Programming languages: This category can include repos for different programming languages, such as Python, Java, JavaScript, C++, and C.
@@ -27,21 +41,7 @@ Operating systems: This category can include repos for operating systems, such a
 Hardware: This category can include repos for hardware projects, such as Arduino, Raspberry Pi, and ESP32.
 Other: This category can include repos for anything that doesn't fit into the other categories. -->
 
-----------
-## Table of Contents
 
-- Open Source Projects
-    1. [PHPMailer](#1-phpmailer-–-a-full-featured-email-creation-and-transfer-class-for-php)
-    2. [HashLips Art Engine](#2-hashlips-art-engine)
-    3. [HackerRank Submission Downloader](#3-hackerrank-submission-downloader)
-    4. [Panolens.js](#4-panolensjs)
- 
-- Documentation
-    1. [GitHub Profile Achievements](#1-github-profile-achievements)
-    2. [Linkedin Skill assessments - Answers](#2-linkedin-skill-assessments---answers)
-    3. [Public APIs](#3-public-apis)
-    4. [Coding Interview University](#4-coding-interview-university)
-    5. [Developer Roadmap](#5-developer-roadmap)
 
 <br><br>
 # 📚 Open Source projects
