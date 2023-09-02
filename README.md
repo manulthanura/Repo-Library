@@ -1,14 +1,15 @@
 
 <div align="center"><h1><b>Welcome to Repo Library!</b></h1></div>
 
-Here is a list of the best GitHub repositories that are useful for your dev journey. Feel free to add your favorite resources as well and help others in their journey of learning. To find, Click `Ctrl + F` and type the keyword you are looking for. If you not sure what do you need, you can find it in the [Table of Contents](#table-of-contents).
+Here is a list of the best GitHub repositories that are useful for your dev journey. Feel free to add your favorite resources as well and help others in their journey of learning. To find, Click `Ctrl` + `F` and type the keyword you are looking for. If you not sure what do you need, you can find it in the [Table of Contents](#table-of-contents).
 
 For ease of use, Click on the `back to top` button to go back to the top of the page or `Back to section` button to go back to the section you were in. <br/>
 
 
 **Love This? Give this repo a star :star:** so that you can find it easily next time you need it.
 
-![Static Badge](https://img.shields.io/badge/GitHub-Repo_Library-dark%20green) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Library?style=socialhttps://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=yellow) ![GitHub contributors](https://img.shields.io/github/contributors/manulthanura/Library) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Library) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Static Badge](https://img.shields.io/badge/GitHub-Repo_Library-dark%20green) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Library?style=socialhttps://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=yellow) ![Static Badge](https://img.shields.io/badge/Number_of_Categories-15-red)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Library) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![](https://i.imgur.com/waxVImv.png)
 ## Table of Contents
@@ -28,6 +29,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 13. [Business Tools](#13-business-tools)
 14. [Testing](#14-testing)
 15. [Security](#15-security)
+16. [Other](#16-other)
 
 ![](https://i.imgur.com/waxVImv.png)
 <!-- old -->
@@ -38,11 +40,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
     4. [Panolens.js](#4-panolensjs)
  
 - Documentation
-    1. [GitHub Profile Achievements](#1-github-profile-achievements)
-    2. [Linkedin Skill assessments - Answers](#2-linkedin-skill-assessments---answers)
-    3. [Public APIs](#3-public-apis)
-    4. [Coding Interview University](#4-coding-interview-university)
-    5. [Developer Roadmap](#5-developer-roadmap)
+
 
 
 <!-- Programming languages: This category can include repos for different programming languages, such as Python, Java, JavaScript, C++, and C.
@@ -166,10 +164,11 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 
+
 <div align="right">
 
 [![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#02-programming-languages)
-[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents) </div><div>
 ![](https://i.imgur.com/waxVImv.png)
 </div>
 
@@ -288,6 +287,26 @@ comming soon
 comming soon
 ## 15. Security
 comming soon
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#15-security)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
+
+## 16. Other
+- [GitHub Profile Achievements](#1-github-profile-achievements)
+- [Linkedin Skill assessments - Answers](#2-linkedin-skill-assessments---answers)
+- [Public APIs](#3-public-apis)
+- [Coding Interview University](#4-coding-interview-university)
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#16-other)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
 
 <br><br>
 Old list (Subject to deletion)
