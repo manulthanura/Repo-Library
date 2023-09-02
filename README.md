@@ -288,11 +288,17 @@ comming soon
 ## 15. Security
 comming soon
 ## 16. Other
-
 -[GitHub Profile Achievements](#1-github-profile-achievements)
 -[Linkedin Skill assessments - Answers](#2-linkedin-skill-assessments---answers)
 -[Public APIs](#3-public-apis)
 -[Coding Interview University](#4-coding-interview-university)
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#16-other)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
 
 <br><br>
 Old list (Subject to deletion)
