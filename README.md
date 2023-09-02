@@ -40,11 +40,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
     4. [Panolens.js](#4-panolensjs)
  
 - Documentation
-    1. [GitHub Profile Achievements](#1-github-profile-achievements)
-    2. [Linkedin Skill assessments - Answers](#2-linkedin-skill-assessments---answers)
-    3. [Public APIs](#3-public-apis)
-    4. [Coding Interview University](#4-coding-interview-university)
-    5. [Developer Roadmap](#5-developer-roadmap)
+
 
 
 <!-- Programming languages: This category can include repos for different programming languages, such as Python, Java, JavaScript, C++, and C.
@@ -292,6 +288,11 @@ comming soon
 ## 15. Security
 comming soon
 ## 16. Other
+
+-[GitHub Profile Achievements](#1-github-profile-achievements)
+-[Linkedin Skill assessments - Answers](#2-linkedin-skill-assessments---answers)
+-[Public APIs](#3-public-apis)
+-[Coding Interview University](#4-coding-interview-university)
 
 <br><br>
 Old list (Subject to deletion)
