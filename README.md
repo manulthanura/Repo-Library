@@ -319,6 +319,22 @@ comming soon
 comming soon
 ## 12. Big Data
 
+- [Big Data](https://github.com/0xnr/awesome-bigdata#readme)
+- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
+- [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
+- [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+- [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#04-back-end-development)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
+
 ## 13. Business Tools
 comming soon
 ## 14. Testing
