@@ -319,11 +319,11 @@ comming soon
 comming soon
 ## 12. Big Data
 
-- [Big Data](https://github.com/0xnr/awesome-bigdata#readme)
-- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
+- [Big Data](https://github.com/0xnr/awesome-bigdata#readme) - Generalized large data set processing.
+- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme) - Archive of high-quality public datasets.
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
-- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
-- [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme) - Multi-disciplinary field concerned with data processing and software engineering.
+- [Streaming](https://github.com/manuzhang/awesome-streaming#readme) - Processing of infinite streams of data.
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
