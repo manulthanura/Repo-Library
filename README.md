@@ -315,6 +315,42 @@ comming soon
 comming soon
 ## 10. Gaming 
 
+
+- [Game Development](https://github.com/ellisonleao/magictools#readme)
+- [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
+- [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
+- [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme)
+- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
+- [Chess](https://github.com/hkirat/awesome-chess#readme)
+- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
+- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+- [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
+- [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
+- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
+- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+- [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
+- [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+- [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+- [Flame](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+- [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
+- [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
+- [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+- [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+- [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+- [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
+- [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
+- [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#04-back-end-development)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
+
 ## 11. Machine Learning
 comming soon
 ## 12. Big Data
