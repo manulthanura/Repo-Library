@@ -315,16 +315,15 @@ comming soon
 comming soon
 ## 10. Gaming 
 
-
 - [Game Development](https://github.com/ellisonleao/magictools#readme) - Resources for making games.
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme) - Talks about game development.
 - [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
-- [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme)
+- [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme) - Open source games.
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
 - [Chess](https://github.com/hkirat/awesome-chess#readme) - The game of chess.
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
 - [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
-- [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
+- [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme) 
 - [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
