@@ -264,7 +264,45 @@ Other: This category can include repos for anything that doesn't fit into the ot
 </div>
 
 ## 04. Back-End Development
-comming soon
+
+- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
+- [Docker](https://github.com/veggiemonk/awesome-docker#readme) - Operating-system-level virtualization.
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme) - Java web framework.
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
+- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
+	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
+- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
+	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme) - Tutorials, etc.
+	- [TALL Stack](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
+- [Rails](https://github.com/gramantin/awesome-rails#readme) - Web app framework for Ruby.
+	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme) - Apache server configs.
+- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
+- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
+- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
+- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
+- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
+- [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
+- [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
+- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
+- [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
+- [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+- [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
+- [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#04-back-end-development)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
+
 ## 05. Libraries
 comming soon
 ## 06. Frameworks
@@ -276,11 +314,62 @@ comming soon
 ## 09. Computer Science
 comming soon
 ## 10. Gaming 
-comming soon
+
+- [Game Development](https://github.com/ellisonleao/magictools#readme) - Resources for making games.
+- [Game Talks](https://github.com/hzoo/awesome-gametalks#readme) - Talks about game development.
+- [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
+- [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme) - Open source games.
+- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
+- [Chess](https://github.com/hkirat/awesome-chess#readme) - The game of chess.
+- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
+- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+- [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme) 
+- [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
+- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
+- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+- [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
+- [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+- [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+- [Flame](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+- [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
+- [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
+- [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+- [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+- [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+- [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
+- [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
+- [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#04-back-end-development)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
+
 ## 11. Machine Learning
 comming soon
 ## 12. Big Data
-comming soon
+
+- [Big Data](https://github.com/0xnr/awesome-bigdata#readme) - Generalized large data set processing.
+- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme) - Archive of high-quality public datasets.
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme) - Multi-disciplinary field concerned with data processing and software engineering.
+- [Streaming](https://github.com/manuzhang/awesome-streaming#readme) - Processing of infinite streams of data.
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
+- [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+- [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#04-back-end-development)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
+
 ## 13. Business Tools
 comming soon
 ## 14. Testing
