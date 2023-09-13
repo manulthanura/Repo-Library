@@ -316,7 +316,7 @@ comming soon
 ## 10. Gaming 
 
 
-- [Game Development](https://github.com/ellisonleao/magictools#readme)
+- [Game Development](https://github.com/ellisonleao/magictools#readme) - Resources for making games.
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
 - [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme)
