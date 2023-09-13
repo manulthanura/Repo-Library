@@ -264,7 +264,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 </div>
 
 ## 04. Back-End Development
-comming soon
+
 ## 05. Libraries
 comming soon
 ## 06. Frameworks
