@@ -266,20 +266,20 @@ Other: This category can include repos for anything that doesn't fit into the ot
 ## 04. Back-End Development
 
 - [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
-- [Docker](https://github.com/veggiemonk/awesome-docker#readme)
+- [Docker](https://github.com/veggiemonk/awesome-docker#readme) - Operating-system-level virtualization.
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
+- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme) - Java web framework.
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
 - [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
 - [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
-	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
+	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme) - Tutorials, etc.
 	- [TALL Stack](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
 - [Rails](https://github.com/gramantin/awesome-rails#readme) - Web app framework for Ruby.
 	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
 - [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
+- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme) - Apache server configs.
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
