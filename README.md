@@ -318,7 +318,7 @@ comming soon
 ## 11. Machine Learning
 comming soon
 ## 12. Big Data
-comming soon
+
 ## 13. Business Tools
 comming soon
 ## 14. Testing
