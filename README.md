@@ -389,8 +389,6 @@ comming soon
 
 - [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) - Answers to the LinkedIn assessment quiz questions.
 
-
-
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) - A complete computer science study plan to become a software engineer.
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap.git) - Community driven roadmaps, articles and resources for developers to learn about different technologies and improve their skills.
 
