@@ -12,6 +12,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
  ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Library) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![](https://i.imgur.com/waxVImv.png)
+
 ## Table of Contents
 
 01. [Learning Resources](#01-learning-resources)
