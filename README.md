@@ -411,29 +411,6 @@ Old list (Subject to deletion)
 
 # 📚 Open Source projects
 
-## 1. PHPMailer – A full-featured email creation and transfer class for PHP
-
-### Why you might need it
-Many PHP developers need to send email from their code. The only PHP function that supports this directly is [`mail()`](https://www.php.net/manual/en/function.mail.php). However, it does not provide any assistance for making use of popular features such as encryption, authentication, HTML messages, and attachments.
-
-### Features
-- Probably the world's most popular code for sending email from PHP!
-- Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more
-- Integrated SMTP support – send without a local mail server
-- Send emails with multiple To, CC, BCC, and Reply-to addresses
-- Multipart/alternative emails for mail clients that do not read HTML email
-- Add attachments, including inline
-- Support for UTF-8 content and 8bit, base64, binary, and quoted-printable encodings
-- SMTP authentication with LOGIN, PLAIN, CRAM-MD5, and XOAUTH2 mechanisms over SMTPS and SMTP+STARTTLS transports
-- Validates email addresses automatically
-- Protects against header injection attacks
-- Error messages in over 50 languages!
-- DKIM and S/MIME signing support
-- Compatible with PHP 5.5 and later, including PHP 8.2
-- Namespaced to prevent name clashes
-- Much more!
-
-### Link [PHPMailer](https://github.com/PHPMailer/PHPMailer.git) <br><br>
 
 ## 2. HashLips Art Engine
 
