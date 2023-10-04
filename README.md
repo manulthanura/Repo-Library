@@ -385,8 +385,6 @@ comming soon
 
 <br><br>
 
-
-<br><br>
 # 📚 Documentation
 
 ## 1. GitHub Profile Achievements
