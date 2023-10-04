@@ -52,7 +52,6 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 - [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements.git) - A collection listing all Achievements available on the GitHub profile. It helps you to show your GitHub profile achievements in your GitHub profile.
 - [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) - Answers to the LinkedIn assessment quiz questions.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) - A complete computer science study plan to become a software engineer.
-- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap.git) - Community driven roadmaps, articles and resources for developers to learn about different technologies and improve their skills.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
