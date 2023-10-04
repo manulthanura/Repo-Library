@@ -410,8 +410,6 @@ A collective list of free APIs for use in software and web development.
 
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap.git) - Community driven roadmaps, articles and resources for developers to learn about different technologies and improve their skills.
 
-### Link [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap.git) <br><br>
-
 ----------
 ## 🚀 About Me
 
