@@ -304,7 +304,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 
 - [PHPMailer](#1-phpmailer-–-a-full-featured-email-creation-and-transfer-class-for-php)
 [HashLips Art Engine](#2-hashlips-art-engine)
-    3. [HackerRank Submission Downloader](#3-hackerrank-submission-downloader)
+[HackerRank Submission Downloader](#3-hackerrank-submission-downloader)
     4. [Panolens.js](#4-panolensjs)
 ## 06. Frameworks
 comming soon
