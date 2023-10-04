@@ -391,7 +391,7 @@ comming soon
 
 ### Link  <br><br>
 
-## 2. [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) - Answers to the LinkedIn assessment quiz questions.
+- [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) - Answers to the LinkedIn assessment quiz questions.
 
 ### Link  <br><br>
 
