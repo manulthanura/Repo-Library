@@ -34,10 +34,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 ![](https://i.imgur.com/waxVImv.png)
 <!-- old -->
 - Open Source Projects
-    1. [PHPMailer](#1-phpmailer-–-a-full-featured-email-creation-and-transfer-class-for-php)
-    2. [HashLips Art Engine](#2-hashlips-art-engine)
-    3. [HackerRank Submission Downloader](#3-hackerrank-submission-downloader)
-    4. [Panolens.js](#4-panolensjs)
+
  
 - Documentation
 
