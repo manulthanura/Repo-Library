@@ -8,7 +8,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 
 **Love This? Give this repo a star :star:** so that you can find it easily next time you need it.
 
-![Static Badge](https://img.shields.io/badge/GitHub-Repo_Library-dark%20green) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Library?style=socialhttps://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=yellow) ![Static Badge](https://img.shields.io/badge/Number_of_Categories-15-red)
+![Static Badge](https://img.shields.io/badge/GitHub-Repo_Library-dark%20green) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/manulthanura/Library) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Library?style=socialhttps://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=yellow) ![Static Badge](https://img.shields.io/badge/Number_of_Categories-16-red)
  ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Library) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![](https://i.imgur.com/waxVImv.png)
@@ -49,6 +49,8 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer
+- [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) - Answers to the LinkedIn assessment quiz questions.
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) - A complete computer science study plan to become a software engineer.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
@@ -296,7 +298,16 @@ comming soon
 ## 07. Development Environment
 comming soon
 ## 08. Developer Platforms
-comming soon
+
+- [Public APIs](https://github.com/public-apis/public-apis.git)
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#08-developer-platforms)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
+
 ## 09. Computer Science
 comming soon
 ## 10. Gaming 
@@ -371,10 +382,8 @@ comming soon
 </div>
 
 ## 16. Other
-- [GitHub Profile Achievements](#1-github-profile-achievements)
-- [Linkedin Skill assessments - Answers](#2-linkedin-skill-assessments---answers)
-- [Public APIs](#3-public-apis)
-- [Coding Interview University](#4-coding-interview-university)
+
+- [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements.git) - A collection listing all Achievements available on the GitHub profile. It helps you to show your GitHub profile achievements in your GitHub profile.
 
 <div align="right">
 
@@ -382,40 +391,6 @@ comming soon
 [![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
 ![](https://i.imgur.com/waxVImv.png)
 </div>
-
-<br><br>
-
-# 📚 Documentation
-
-## 1. GitHub Profile Achievements
-
-A collection listing all Achievements available on the GitHub profile. It helps you to show your GitHub profile achievements in your GitHub profile.
-
-### Link [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements.git) <br><br>
-
-## 2. Linkedin Skill assessments - Answers
-
-This repository is for those looking for answers to the LinkedIn assessment quiz questions or willing to help others by contributing to the tests. Or possibly you would like to create your first pull request and be added as a contributor. Whatever is your goal - you are always welcome here! Feel free to use online grammar checker when you contribute!
-
-### Link [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) <br><br>
-
-## 3. Public APIs
-
-A collective list of free APIs for use in software and web development.
-
-### Link [Public APIs](https://github.com/public-apis/public-apis.git) <br><br>
-
-## 4. Coding Interview University
-
-A complete computer science study plan to become a software engineer.
-
-### Link [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) <br><br>
-
-## 5. Developer Roadmap
-
-Community driven roadmaps, articles and resources for developers to learn about different technologies and improve their skills.
-
-### Link [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap.git) <br><br>
 
 ----------
 ## 🚀 About Me
