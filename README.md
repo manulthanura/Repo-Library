@@ -12,6 +12,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
  ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Library) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![](https://i.imgur.com/waxVImv.png)
+
 ## Table of Contents
 
 01. [Learning Resources](#01-learning-resources)
@@ -32,30 +33,6 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 16. [Other](#16-other)
 
 ![](https://i.imgur.com/waxVImv.png)
-<!-- old -->
-- Open Source Projects
-
- 
-- Documentation
-
-
-
-<!-- Programming languages: This category can include repos for different programming languages, such as Python, Java, JavaScript, C++, and C.
-Software development: This category can include repos for software development tools and libraries, such as Git, GitHub, Docker, and Kubernetes.
-Web development: This category can include repos for web development frameworks and libraries, such as React, Angular, and Vue.js.
-Data science: This category can include repos for data science tools and libraries, such as NumPy, Pandas, and Scikit-learn.
-Machine learning: This category can include repos for machine learning tools and libraries, such as TensorFlow, PyTorch, and Keras.
-Artificial intelligence: This category can include repos for artificial intelligence tools and libraries, such as OpenAI, DeepMind, and Google Brain.
-Cloud computing: This category can include repos for cloud computing platforms and services, such as AWS, Azure, and GCP.
-Security: This category can include repos for security tools and libraries, such as OWASP, SANS, and MITRE.
-DevOps: This category can include repos for DevOps tools and libraries, such as Ansible, Puppet, and Chef.
-Testing: This category can include repos for testing tools and libraries, such as Selenium, JUnit, and TestNG.
-Quality assurance: This category can include repos for quality assurance tools and libraries, such as SonarQube, Clang, and GCC.
-Containers: This category can include repos for containerization tools and libraries, such as Docker, Kubernetes, and LXC.
-Networking: This category can include repos for networking tools and libraries, such as Wireshark, nmap, and tcpdump.
-Operating systems: This category can include repos for operating systems, such as Linux, macOS, and Windows.
-Hardware: This category can include repos for hardware projects, such as Arduino, Raspberry Pi, and ESP32.
-Other: This category can include repos for anything that doesn't fit into the other categories. -->
 
 ## 01. Learning Resources
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
@@ -309,7 +286,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 
 <div align="right">
 
-[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#04-back-end-development)
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#05-libraries)
 [![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
 ![](https://i.imgur.com/waxVImv.png)
 </div>
@@ -407,37 +384,7 @@ comming soon
 </div>
 
 <br><br>
-Old list (Subject to deletion)
 
-# 📚 Open Source projects
-
-
-## 3. HackerRank Submission Downloader
-
-### Why you might need it
-HackerRank Submission Downloader is a tool used to download all your submissions from HackerRank. It helps you specifically in the case where you have lost your submissions due to a system failure or a bug in the system or in HackerRank hackthon.
-
-### Features
-
-- Download all your submissions from HackerRank
-- Download all your submissions from a specific contest
-
-### Link [HackerRank Submission Downloader](https://github.com/kasvith/hackerrank-dl.git) <br><br>
-
-## 4. Panolens.js
-
-### Why you might need it
-Panolens.js is a JavaScript library for creating VR panorama viewer on the web. It is built on top of Three.js and WebGL. It is designed to be lightweight and easy to use. 
-
-### Features
-
-- Lightweight
-- Easy to use
-- Support for both equirectangular and cubemap panorama
-
-### Link [Panolens.js](https://github.com/pchen66/panolens.js.git)
-
-<br><br>
 # 📚 Documentation
 
 ## 1. GitHub Profile Achievements
