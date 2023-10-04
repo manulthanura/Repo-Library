@@ -301,7 +301,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 </div>
 
 ## 05. Libraries
-comming soon
+
 ## 06. Frameworks
 comming soon
 ## 07. Development Environment
