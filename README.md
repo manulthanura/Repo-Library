@@ -34,10 +34,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 ![](https://i.imgur.com/waxVImv.png)
 <!-- old -->
 - Open Source Projects
-    1. [PHPMailer](#1-phpmailer-–-a-full-featured-email-creation-and-transfer-class-for-php)
-    2. [HashLips Art Engine](#2-hashlips-art-engine)
-    3. [HackerRank Submission Downloader](#3-hackerrank-submission-downloader)
-    4. [Panolens.js](#4-panolensjs)
+
  
 - Documentation
 
@@ -304,7 +301,19 @@ Other: This category can include repos for anything that doesn't fit into the ot
 </div>
 
 ## 05. Libraries
-comming soon
+
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer.git) - A full-featured email creation and transfer class for PHP
+- [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine.git) - A tool used to create multiple different instances of artworks based on provided layers
+- [HackerRank Submission Downloader](https://github.com/kasvith/hackerrank-dl.git) - A tool used to download all your submissions from HackerRank
+- [Panolens.js](https://github.com/pchen66/panolens.js.git) - A JavaScript library for creating VR panorama viewer on the web
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#04-back-end-development)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
+
 ## 06. Frameworks
 comming soon
 ## 07. Development Environment
@@ -402,41 +411,6 @@ Old list (Subject to deletion)
 
 # 📚 Open Source projects
 
-## 1. PHPMailer – A full-featured email creation and transfer class for PHP
-
-### Why you might need it
-Many PHP developers need to send email from their code. The only PHP function that supports this directly is [`mail()`](https://www.php.net/manual/en/function.mail.php). However, it does not provide any assistance for making use of popular features such as encryption, authentication, HTML messages, and attachments.
-
-### Features
-- Probably the world's most popular code for sending email from PHP!
-- Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more
-- Integrated SMTP support – send without a local mail server
-- Send emails with multiple To, CC, BCC, and Reply-to addresses
-- Multipart/alternative emails for mail clients that do not read HTML email
-- Add attachments, including inline
-- Support for UTF-8 content and 8bit, base64, binary, and quoted-printable encodings
-- SMTP authentication with LOGIN, PLAIN, CRAM-MD5, and XOAUTH2 mechanisms over SMTPS and SMTP+STARTTLS transports
-- Validates email addresses automatically
-- Protects against header injection attacks
-- Error messages in over 50 languages!
-- DKIM and S/MIME signing support
-- Compatible with PHP 5.5 and later, including PHP 8.2
-- Namespaced to prevent name clashes
-- Much more!
-
-### Link [PHPMailer](https://github.com/PHPMailer/PHPMailer.git) <br><br>
-
-## 2. HashLips Art Engine
-
-### Why you might need it
-HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers
-
-### Features
-
-- Create multiple different instances of artworks based on provided layers
-- Create artworks with different traits, rarity, number of layers and number of traits
-
-### Link [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine.git) <br><br>
 
 ## 3. HackerRank Submission Downloader
 
