@@ -405,7 +405,7 @@ A collective list of free APIs for use in software and web development.
 
 ### Link [Public APIs](https://github.com/public-apis/public-apis.git) <br><br>
 
-## 4. Coding Interview University - A complete computer science study plan to become a software engineer.
+## 4. [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) - A complete computer science study plan to become a software engineer.
 
 ### Link [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) <br><br>
 
