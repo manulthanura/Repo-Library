@@ -392,7 +392,6 @@ comming soon
 - [Public APIs](https://github.com/public-apis/public-apis.git) <br><br>
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) - A complete computer science study plan to become a software engineer.
-
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap.git) - Community driven roadmaps, articles and resources for developers to learn about different technologies and improve their skills.
 
 ----------
