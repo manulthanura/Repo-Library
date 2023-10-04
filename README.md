@@ -305,7 +305,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer.git) - A full-featured email creation and transfer class for PHP
 - [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine.git) - A tool used to create multiple different instances of artworks based on provided layers
 - [HackerRank Submission Downloader](https://github.com/kasvith/hackerrank-dl.git) - A tool used to download all your submissions from HackerRank
-- [Panolens.js](#4-panolensjs) - A JavaScript library for creating VR panorama viewer on the web
+- [Panolens.js](https://github.com/pchen66/panolens.js.git) - A JavaScript library for creating VR panorama viewer on the web
 
 <div align="right">
 
