@@ -286,7 +286,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 
 <div align="right">
 
-[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#04-back-end-development)
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)]()
 [![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
 ![](https://i.imgur.com/waxVImv.png)
 </div>
