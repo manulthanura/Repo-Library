@@ -393,11 +393,7 @@ comming soon
 
 - [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) - Answers to the LinkedIn assessment quiz questions.
 
-### Link  <br><br>
 
-## 3. Public APIs
-
-A collective list of free APIs for use in software and web development.
 
 - [Public APIs](https://github.com/public-apis/public-apis.git) <br><br>
 
