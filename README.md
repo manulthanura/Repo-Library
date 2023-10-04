@@ -391,9 +391,7 @@ comming soon
 
 ### Link  <br><br>
 
-## 2. Linkedin Skill assessments - Answers
-
-This repository is for those looking for answers to the LinkedIn assessment quiz questions or willing to help others by contributing to the tests.
+## 2. Linkedin Skill assessments - Answers - This repository is for those looking for answers to the LinkedIn assessment quiz questions or willing to help others by contributing to the tests.
 
 ### Link [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) <br><br>
 
