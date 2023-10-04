@@ -386,7 +386,7 @@ comming soon
 
 
 
-- [Public APIs](https://github.com/public-apis/public-apis.git)
+
 ----------
 ## 🚀 About Me
 
