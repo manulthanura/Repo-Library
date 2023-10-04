@@ -391,7 +391,7 @@ comming soon
 
 ### Link  <br><br>
 
-## 2. Linkedin Skill assessments - Answers - Answers to the LinkedIn assessment quiz questions or willing to help others by contributing to the tests.
+## 2. Linkedin Skill assessments - Answers - Answers to the LinkedIn assessment quiz questions.
 
 ### Link [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) <br><br>
 
