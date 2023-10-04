@@ -408,7 +408,7 @@ A collective list of free APIs for use in software and web development.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) - A complete computer science study plan to become a software engineer.
 
 
-## 5. [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap.git) - Community driven roadmaps, articles and resources for developers to learn about different technologies and improve their skills.
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap.git) - Community driven roadmaps, articles and resources for developers to learn about different technologies and improve their skills.
 
 ### Link [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap.git) <br><br>
 
