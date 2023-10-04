@@ -32,7 +32,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 16. [Other](#16-other)
 
 ![](https://i.imgur.com/waxVImv.png)
-<!-- old -->
+
 
 
  
