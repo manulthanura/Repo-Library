@@ -391,9 +391,9 @@ comming soon
 
 ### Link  <br><br>
 
-## 2. Linkedin Skill assessments - Answers - Answers to the LinkedIn assessment quiz questions.
+## 2. [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) - Answers to the LinkedIn assessment quiz questions.
 
-### Link [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) <br><br>
+### Link  <br><br>
 
 ## 3. Public APIs
 
