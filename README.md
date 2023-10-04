@@ -376,7 +376,6 @@ comming soon
 
 - [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements.git) - A collection listing all Achievements available on the GitHub profile. It helps you to show your GitHub profile achievements in your GitHub profile.
 
-
 <div align="right">
 
 [![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#16-other)
