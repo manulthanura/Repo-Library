@@ -393,8 +393,6 @@ comming soon
 
 - [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) - Answers to the LinkedIn assessment quiz questions.
 
-
-
 - [Public APIs](https://github.com/public-apis/public-apis.git) <br><br>
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) - A complete computer science study plan to become a software engineer.
