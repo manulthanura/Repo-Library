@@ -384,35 +384,7 @@ comming soon
 </div>
 
 <br><br>
-Old list (Subject to deletion)
 
-# 📚 Open Source projects
-
-
-## 3. HackerRank Submission Downloader
-
-### Why you might need it
-HackerRank Submission Downloader is a tool used to download all your submissions from HackerRank. It helps you specifically in the case where you have lost your submissions due to a system failure or a bug in the system or in HackerRank hackthon.
-
-### Features
-
-- Download all your submissions from HackerRank
-- Download all your submissions from a specific contest
-
-### Link [HackerRank Submission Downloader](https://github.com/kasvith/hackerrank-dl.git) <br><br>
-
-## 4. Panolens.js
-
-### Why you might need it
-Panolens.js is a JavaScript library for creating VR panorama viewer on the web. It is built on top of Three.js and WebGL. It is designed to be lightweight and easy to use. 
-
-### Features
-
-- Lightweight
-- Easy to use
-- Support for both equirectangular and cubemap panorama
-
-### Link [Panolens.js](https://github.com/pchen66/panolens.js.git)
 
 <br><br>
 # 📚 Documentation
