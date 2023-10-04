@@ -304,7 +304,7 @@ Other: This category can include repos for anything that doesn't fit into the ot
 
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer.git) - A full-featured email creation and transfer class for PHP
 - [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine.git) - A tool used to create multiple different instances of artworks based on provided layers
-- [HackerRank Submission Downloader](#3-hackerrank-submission-downloader) - A tool used to download all your submissions from HackerRank
+- [HackerRank Submission Downloader]() - A tool used to download all your submissions from HackerRank
 - [Panolens.js](#4-panolensjs) - A JavaScript library for creating VR panorama viewer on the web
 
 <div align="right">
@@ -411,18 +411,6 @@ Old list (Subject to deletion)
 
 # 📚 Open Source projects
 
-
-## 2. HashLips Art Engine
-
-### Why you might need it
-HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers
-
-### Features
-
-- Create multiple different instances of artworks based on provided layers
-- Create artworks with different traits, rarity, number of layers and number of traits
-
-### Link [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine.git) <br><br>
 
 ## 3. HackerRank Submission Downloader
 
