@@ -49,7 +49,6 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer
-- [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements.git) - A collection listing all Achievements available on the GitHub profile. It helps you to show your GitHub profile achievements in your GitHub profile.
 - [Linkedin Skill assessments - Answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git) - Answers to the LinkedIn assessment quiz questions.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university.git) - A complete computer science study plan to become a software engineer.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
