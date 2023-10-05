@@ -35,6 +35,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 ![](https://i.imgur.com/waxVImv.png)
 
 ## 01. Learning Resources
+
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme) - A collection of awesome resources about public speaking
