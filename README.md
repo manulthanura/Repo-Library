@@ -359,6 +359,7 @@ comming soon
 ## 11. Machine Learning
 
 comming soon
+
 ## 12. Big Data
 
 - [Big Data](https://github.com/0xnr/awesome-bigdata#readme) - Generalized large data set processing.
