@@ -151,6 +151,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 </div>
 
 ## 03. Front-End Development
+
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme) - A delightful list of ESLint plugins, configs, etc.
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) - For making web apps load faster.
 - [Web Tools](https://github.com/lvwzhen/tools#readme) - A collection of useful single-purpose online tools for web development.
