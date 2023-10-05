@@ -35,6 +35,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 ![](https://i.imgur.com/waxVImv.png)
 
 ## 01. Learning Resources
+
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme) - A collection of awesome resources about public speaking
@@ -63,6 +64,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 </div>
 
 ## 02. Programming Languages
+
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) - Language used to make web pages interactive.
 	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme) - Async alternative to callbacks.
 	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
@@ -149,6 +151,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 </div>
 
 ## 03. Front-End Development
+
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme) - A delightful list of ESLint plugins, configs, etc.
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) - For making web apps load faster.
 - [Web Tools](https://github.com/lvwzhen/tools#readme) - A collection of useful single-purpose online tools for web development.
@@ -294,9 +297,13 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 </div>
 
 ## 06. Frameworks
+
 comming soon
+
 ## 07. Development Environment
+
 comming soon
+
 ## 08. Developer Platforms
 
 - [Public APIs](https://github.com/public-apis/public-apis.git)
@@ -309,7 +316,9 @@ comming soon
 </div>
 
 ## 09. Computer Science
+
 comming soon
+
 ## 10. Gaming 
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme) - Resources for making games.
@@ -348,7 +357,9 @@ comming soon
 </div>
 
 ## 11. Machine Learning
+
 comming soon
+
 ## 12. Big Data
 
 - [Big Data](https://github.com/0xnr/awesome-bigdata#readme) - Generalized large data set processing.
@@ -368,10 +379,15 @@ comming soon
 </div>
 
 ## 13. Business Tools
+
 comming soon
+
 ## 14. Testing
+
 comming soon
+
 ## 15. Security
+
 comming soon
 
 <div align="right">
