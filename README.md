@@ -314,7 +314,7 @@ comming soon
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - Cheat sheets for Git and GitHub.
 	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme) - Cheat sheets for Git and Git Flow.
-- [Git Tips](https://github.com/git-tips/tips#readme)
+- [Git Tips](https://github.com/git-tips/tips#readme) - Tips for using Git.
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
 - [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 - [SSH](https://github.com/moul/awesome-ssh#readme)
