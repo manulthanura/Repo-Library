@@ -376,7 +376,7 @@ comming soon
 - [Open Source Society University](https://github.com/ossu/computer-science#readme) - Path to a free self-taught education in Computer Science.
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme) - Programming paradigm.
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
-- [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
+- [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme) - Tools for code inspection, metrics, and stylelinting.
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
