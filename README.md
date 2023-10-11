@@ -311,7 +311,7 @@ comming soon
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) - zsh plugins, themes and completions.
 - [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme) - Chrome and Firefox extensions for GitHub.
-	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - Cheat sheets for Git and GitHub.
 	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
