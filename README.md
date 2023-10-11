@@ -359,7 +359,7 @@ comming soon
 	- [XAI](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme) - Speech, natural language, and text processing libraries, frameworks, and datasets.
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme) - Resources for processing the Spanish language.
-	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
+	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme) - Natural language processing with Ruby.
 	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
 	- [Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
