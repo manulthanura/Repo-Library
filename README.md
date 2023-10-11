@@ -317,7 +317,7 @@ comming soon
 - [Git Tips](https://github.com/git-tips/tips#readme) - Tips for using Git.
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
 - [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
-- [SSH](https://github.com/moul/awesome-ssh#readme)
+- [SSH](https://github.com/moul/awesome-ssh#readme) - Open source implementations of SSH clients, servers, and building blocks for integrations.
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
 - [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
