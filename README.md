@@ -347,7 +347,7 @@ comming soon
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses#readme) - Computer Science courses with video lectures.
 - [Data Science](https://github.com/academic/awesome-datascience#readme) - Using data to answer questions.
-	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
+	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme) - Learn data science.
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
 	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
