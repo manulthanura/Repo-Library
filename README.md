@@ -322,7 +322,7 @@ comming soon
 - [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
 - [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
-- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
+- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme) - Terminal frameworks, plugins & resources.
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
 <div align="right">
