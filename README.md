@@ -373,7 +373,7 @@ comming soon
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme) - Learn deep learning.
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) - Vision algorithms and applications.
-- [Open Source Society University](https://github.com/ossu/computer-science#readme)
+- [Open Source Society University](https://github.com/ossu/computer-science#readme) - Path to a free self-taught education in Computer Science.
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
