@@ -307,7 +307,7 @@ comming soon
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme) - For macOS.
 - [Shell](https://github.com/alebcay/awesome-shell#readme) - Command-line frameworks, toolkits, guides and gizmos.
 - [Fish](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
-- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
+- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme) - GUI for your terminal apps.
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
 - [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
