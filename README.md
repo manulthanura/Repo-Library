@@ -302,7 +302,35 @@ comming soon
 
 ## 07. Development Environment
 
-comming soon
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
+- [Dev Env](https://github.com/jondot/awesome-devenv#readme) - Development environments.
+- [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme) - For macOS.
+- [Shell](https://github.com/alebcay/awesome-shell#readme) - Command-line frameworks, toolkits, guides and gizmos.
+- [Fish](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme) - GUI for your terminal apps.
+- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) - zsh plugins, themes and completions.
+- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme) - Chrome and Firefox extensions for GitHub.
+	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - Cheat sheets for Git and GitHub.
+	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme) - Cheat sheets for Git and Git Flow.
+- [Git Tips](https://github.com/git-tips/tips#readme) - Tips for using Git.
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+- [SSH](https://github.com/moul/awesome-ssh#readme) - Open source implementations of SSH clients, servers, and building blocks for integrations.
+- [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme) - For developers.
+- [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
+- [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme) - Terminal frameworks, plugins & resources.
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+
+<div align="right">
+
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#07-development-environment)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
 
 ## 08. Developer Platforms
 
