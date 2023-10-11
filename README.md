@@ -374,7 +374,8 @@ comming soon
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme) - Learn deep learning.
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) - Vision algorithms and applications.
 - [Open Source Society University](https://github.com/ossu/computer-science#readme) - Path to a free self-taught education in Computer Science.
-- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
+- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme) - Programming paradigm.
+	- [ClojureScript](
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
