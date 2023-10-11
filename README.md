@@ -386,7 +386,6 @@ comming soon
 ## Big Data
 
 
-
 ## 10. Gaming 
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme) - Resources for making games.
