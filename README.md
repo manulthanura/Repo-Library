@@ -310,7 +310,7 @@ comming soon
 - [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme) - GUI for your terminal apps.
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) - zsh plugins, themes and completions.
 - [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
-	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme) - Chrome and Firefox extensions for GitHub.
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
