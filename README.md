@@ -345,7 +345,7 @@ comming soon
 
 ## 09. Computer Science
 
-- [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
+- [University Courses](https://github.com/prakhar1989/awesome-courses#readme) - Computer Science courses with video lectures.
 - [Data Science](https://github.com/academic/awesome-datascience#readme)
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
