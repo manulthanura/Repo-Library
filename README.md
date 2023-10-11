@@ -325,7 +325,12 @@ comming soon
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
+<div align="right">
 
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#05-libraries)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
 
 ## 08. Developer Platforms
 
