@@ -452,7 +452,7 @@ comming soon
 ## 13. Business Tools
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme) - Companies that have open sourced everything they can.
-- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
+- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme) - Free places to post your startup for exposure.
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
 - [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
