@@ -288,7 +288,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 - [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine.git) - A tool used to create multiple different instances of artworks based on provided layers
 - [HackerRank Submission Downloader](https://github.com/kasvith/hackerrank-dl.git) - A tool used to download all your submissions from HackerRank
 - [Panolens.js](https://github.com/pchen66/panolens.js.git) - A JavaScript library for creating VR panorama viewer on the web
-- [ZXing]()
+- [ZXing](https://github.com/zxing-js/library)
 
 <div align="right">
 
