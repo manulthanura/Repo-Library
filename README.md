@@ -290,7 +290,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 - [Panolens.js](https://github.com/pchen66/panolens.js.git) - A JavaScript library for creating VR panorama viewer on the web
 - [ZXing](https://github.com/zxing-js/library) - A barcode scanning library for the web
 - [Material Design Android Library](https://github.com/navasmdc/MaterialDesignLibrary) - A library with Google Material Design components
-- [Blynk](https://github.com/blynkkk/blynk-library) -
+- [Blynk](https://github.com/blynkkk/blynk-library) - An IoT platform with customizable mobile apps, private cloud, rules engine, and device management analytics dashboard
 
 <div align="right">
 
