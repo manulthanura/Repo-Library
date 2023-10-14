@@ -292,7 +292,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 - [Material Design Android Library](https://github.com/navasmdc/MaterialDesignLibrary) - A library with Google Material Design components
 - [Blynk](https://github.com/blynkkk/blynk-library) - An IoT platform with customizable mobile apps, private cloud, rules engine, and device management analytics dashboard
 - [Closure](https://github.com/google/closure-library) - A JavaScript library for creating and using JavaScript applications and components
-- [React Testing Library](https://github.com/testing-library/react-testing-library) -
+- [React Testing Library](https://github.com/testing-library/react-testing-library) - A library for testing React components
 
 <div align="right">
 
