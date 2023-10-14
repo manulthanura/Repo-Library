@@ -291,6 +291,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 - [ZXing](https://github.com/zxing-js/library) - A barcode scanning library for the web
 - [Material Design Android Library](https://github.com/navasmdc/MaterialDesignLibrary) - A library with Google Material Design components
 
+
 <div align="right">
 
 [![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#05-libraries)
