@@ -340,6 +340,31 @@ comming soon
 
 ## 08. Security
 
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
+- [Security](https://github.com/sbilly/awesome-security#readme)
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme)
+- [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
+- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
+- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+- [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
+- [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
+- [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+- [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
+- [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
+- [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 
 
 <div align="right">
