@@ -329,7 +329,7 @@ comming soon
 - [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme) - Terminal frameworks, plugins & resources.
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
-
+- [Public APIs](https://github.com/public-apis/public-apis.git)
 <div align="right">
 
 [![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#07-development-environment)
