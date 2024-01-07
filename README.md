@@ -347,7 +347,7 @@ comming soon
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) - Tools and resources for analysts.
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme) - Tools and resources for Android security.
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme) - Tutorials, tools, and resources.
-- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
+- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme) - Places, online or in real life, where you can gain knowledge and improve your skills.
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
