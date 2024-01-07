@@ -340,7 +340,7 @@ comming soon
 
 ## 08. Security
 
-- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme) - Resources for learning about application security.
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
 - [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
