@@ -22,7 +22,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 05. [Libraries](#05-libraries)
 06. [Frameworks](#06-frameworks)
 07. [Development Environment](#07-development-environment)
-08. [Developer Platforms](#08-developer-platforms)
+08. [Security](#08-security)
 09. [Computer Science](#09-computer-science)
 10. [Gaming](#10-gaming)
 11. [Machine Learning](#11-machine-learning)
@@ -329,6 +329,7 @@ comming soon
 - [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme) - Terminal frameworks, plugins & resources.
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+- [Public APIs](https://github.com/public-apis/public-apis.git)
 
 <div align="right">
 
@@ -337,13 +338,13 @@ comming soon
 ![](https://i.imgur.com/waxVImv.png)
 </div>
 
-## 08. Developer Platforms
+## 08. Security
 
-- [Public APIs](https://github.com/public-apis/public-apis.git)
+
 
 <div align="right">
 
-[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#08-developer-platforms)
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#08-security)
 [![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
 ![](https://i.imgur.com/waxVImv.png)
 </div>
