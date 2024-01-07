@@ -22,7 +22,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 05. [Libraries](#05-libraries)
 06. [Frameworks](#06-frameworks)
 07. [Development Environment](#07-development-environment)
-08. [Security]()
+08. [Security](#08-security)
 09. [Computer Science](#09-computer-science)
 10. [Gaming](#10-gaming)
 11. [Machine Learning](#11-machine-learning)
