@@ -344,7 +344,7 @@ comming soon
 - [Security](https://github.com/sbilly/awesome-security#readme) - Software, libraries, documents, and other resources.
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
 - [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
-- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) - Tools and resources for analysts.
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
