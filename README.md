@@ -329,7 +329,7 @@ comming soon
 - [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme) - Terminal frameworks, plugins & resources.
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
-- [Public APIs](https://github.com/public-apis/public-apis.git)
+- [Public APIs](https://github.com/public-apis/public-apis.git) - A collective list of free APIs for use in software and web development.
 
 <div align="right">
 
@@ -340,6 +340,31 @@ comming soon
 
 ## 08. Security
 
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme) - Resources for learning about application security.
+- [Security](https://github.com/sbilly/awesome-security#readme) - Software, libraries, documents, and other resources.
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) - Tools and resources for analysts.
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme) - Tools and resources for Android security.
+- [Hacking](https://github.com/carpedm20/awesome-hacking#readme) - Tutorials, tools, and resources.
+- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme) - Places, online or in real life, where you can gain knowledge and improve your skills.
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme) - Resources for incident response.
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme) - Resources for learning about automotive security and car hacking.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
+- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme) - Resources for embedded and IoT security.
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+- [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
+- [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
+- [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+- [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
+- [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
+- [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 
 
 <div align="right">
