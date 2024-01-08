@@ -29,7 +29,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 12. [Big Data](#12-big-data)
 13. [Business Tools](#13-business-tools)
 14. [Testing](#14-testing)
-15. [Security](#15-security)
+15. [Security](#15-hardware)
 16. [Other](#16-other)
 
 ![](https://i.imgur.com/waxVImv.png)
