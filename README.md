@@ -301,7 +301,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 ![](https://i.imgur.com/waxVImv.png)
 </div>
 
-## 06. Frameworks
+## 06. Platforms
 
 comming soon
 
