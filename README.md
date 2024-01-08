@@ -325,7 +325,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm#readme) - Java Virtual Machine-based programming languages and development tools.
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme) - Customer relationship management software.
-- [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
+- [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme) - On-demand cloud computing platforms and APIs.
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
