@@ -303,7 +303,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 
 ## 06. Platforms
 
-comming soon
+
 
 ## 07. Development Environment
 
