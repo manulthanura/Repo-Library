@@ -359,7 +359,6 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 - [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
 
-
 <div align="right">
 
 [![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#05-libraries)
