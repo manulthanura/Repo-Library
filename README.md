@@ -525,7 +525,7 @@ comming soon
 
 ## 15. Hardware
 
-- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
+- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) - Programming robots.
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
