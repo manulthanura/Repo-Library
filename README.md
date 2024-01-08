@@ -308,7 +308,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme) - Front-end development resources.
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
 - [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme) - Frameworks, libraries, resources for building IoT & Hybrid Apps.
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
 - [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
