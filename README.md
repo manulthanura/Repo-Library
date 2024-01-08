@@ -319,9 +319,9 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
 	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 - macOS - Operating system for Apple's Mac computers.
-	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
-	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme) - Apple TV Aerial Screensavers for Mac.
+	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme) - Apps for developers and designers.
+	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme) - Open source apps that run natively on macOS.
 - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
