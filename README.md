@@ -20,7 +20,7 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 03. [Front-End Development](#03-front-end-development)
 04. [Back-End Development](#04-back-end-development)
 05. [Libraries](#05-libraries)
-06. [Frameworks](#06-frameworks)
+06. [Platforms](#06-platforms)
 07. [Development Environment](#07-development-environment)
 08. [Security](#08-security)
 09. [Computer Science](#09-computer-science)
