@@ -525,7 +525,7 @@ comming soon
 
 ## 15. Hardware
 
-comming soon
+
 
 <div align="right">
 
