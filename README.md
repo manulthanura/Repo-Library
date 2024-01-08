@@ -303,7 +303,12 @@ For ease of use, Click on the `back to top` button to go back to the top of the 
 
 ## 06. Platforms
 
+<div align="right">
 
+[![Static Badge](https://img.shields.io/badge/Back_To-Section-e22bdf)](#05-libraries)
+[![Static Badge](https://img.shields.io/badge/Back_To-Top-8A2BE2)](#table-of-contents)
+![](https://i.imgur.com/waxVImv.png)
+</div>
 
 ## 07. Development Environment
 
