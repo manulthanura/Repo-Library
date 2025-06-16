@@ -608,6 +608,7 @@ comming soon
 ## 16. Other
 
 - [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements.git) - A collection listing all Achievements available on the GitHub profile. It helps you to show your GitHub profile achievements in your GitHub profile.
+- [paint-github](https://github.com/anduleh/paint-github) - The most convenient way to paint your GitHub contribution graph.
 
 <div align="right">
 
